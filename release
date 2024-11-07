@@ -1,0 +1,52 @@
+{
+  "app":"happ_android",
+  "ret": 1,
+  "msg": "ok",
+  "data": "1.1.5",
+  "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.1/Happ_1.1.5_1057_all.apk",
+  "details": "Bug fixes and performance improvements.",
+  "filenum": 1081,
+  "apk": {
+    "block": [
+    ],
+    "beta": {
+      "version": "1.2.0",
+      "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.2/Happ_1.2.0_1061_all.apk",
+      "details": "Bug fixes and performance improvements.",
+      "update": {
+        "nowarn": "1.1.1",
+        "warnonce": "1.1.1",
+        "warnweek": "1.1.0",
+        "warnalways": "1.1.0",
+        "updateonly": "0.0.1"
+      }
+    },
+    "stable": {
+      "version": "1.1.5",
+      "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.1/Happ_1.1.5_1057_all.apk",
+      "details": "Bug fixes and performance improvements.",
+      "update": {
+        "nowarn": "1.0.0",
+        "warnonce": "1.0.0",
+        "warnweek": "1.0.0",
+        "warnalways": "1.0.0",
+        "updateonly": "0.0.1"
+      }
+    }
+  },
+  "google": {
+    "block": [
+    ],
+    "stable": {
+      "version": "1.0.0",
+      "details": "Welcome to new version of Happ Android application",
+      "update": {
+        "nowarn": "0.4.1",
+        "warnonce": "0.4.1",
+        "warnweek": "0.3.5",
+        "warnalways": "0.0.4",
+        "updateonly": "0.0.3"
+      }
+    }
+  }
+}
