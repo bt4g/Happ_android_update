@@ -5,19 +5,19 @@
   "data": "1.2.0",
   "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.2/Happ_1.2.0_1061_all.apk",
   "details": "Bug fixes and performance improvements.",
-  "filenum": 1082,
+  "filenum": 1083,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "1.2.0",
-      "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.2/Happ_1.2.0_1061_all.apk",
+      "version": "1.4.0",
+      "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.4/Happ_1.4.0_1067_all.apk",
       "details": "Bug fixes and performance improvements.",
       "update": {
-        "nowarn": "1.1.1",
-        "warnonce": "1.1.1",
-        "warnweek": "1.1.0",
-        "warnalways": "1.1.0",
+        "nowarn": "1.3.1",
+        "warnonce": "1.2.1",
+        "warnweek": "1.2.0",
+        "warnalways": "1.2.0",
         "updateonly": "0.0.1"
       }
     },
