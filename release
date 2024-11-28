@@ -5,14 +5,14 @@
   "data": "1.2.0",
   "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.2/Happ_1.2.0_1061_all.apk",
   "details": "Bug fixes and performance improvements.",
-  "filenum": 1083,
+  "filenum": 1084,
   "apk": {
     "block": [
     ],
     "beta": {
       "version": "1.4.0",
-      "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.4/Happ_1.4.0_1067_all.apk",
-      "details": "Bug fixes and performance improvements.",
+      "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.5/Happ_1.5.0_1069_all.apk",
+      "details": "Routing rework\nAdd support Headers Meta Params\nBug fixes and performance improvements.",
       "update": {
         "nowarn": "1.3.1",
         "warnonce": "1.2.1",
