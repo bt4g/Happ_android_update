@@ -10,7 +10,7 @@
     "block": [
     ],
     "beta": {
-      "version": "1.4.0",
+      "version": "1.5.0",
       "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.5/Happ_1.5.0_1069_all.apk",
       "details": "Routing rework\nAdd support Headers Meta Params\nBug fixes and performance improvements.",
       "update": {
