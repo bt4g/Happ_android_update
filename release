@@ -5,19 +5,19 @@
   "data": "1.2.0",
   "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.2/Happ_1.2.0_1061_all.apk",
   "details": "Bug fixes and performance improvements.",
-  "filenum": 1086,
+  "filenum": 1087,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "1.6.1",
-      "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.6.1/Happ.apk",
-      "details": "Routing fix download and default geo files\nHeaders Meta Params add merge source and set body request priority\nBug fixes and performance improvements.",
+      "version": "1.7.2",
+      "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.7.2/Happ.apk",
+      "details": "fix UI meta info\nservers list not over on navigation bar\nadd subscription update interval functions\nvisual change power button\nnotofication routings profile update",
       "update": {
-        "nowarn": "1.6.1",
-        "warnonce": "1.6.0",
-        "warnweek": "1.6.0",
-        "warnalways": "1.4.0",
+        "nowarn": "1.7.1",
+        "warnonce": "1.7.1",
+        "warnweek": "1.7.1",
+        "warnalways": "1.7.0",
         "updateonly": "0.0.1"
       }
     },
