@@ -12,7 +12,7 @@
     "beta": {
       "version": "1.7.2",
       "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.7.2/Happ.apk",
-      "details": "fix UI meta info\nservers list not over on navigation bar\nadd subscription update interval functions\nvisual change power button\nnotofication routings profile update",
+      "details": "- fix UI meta info\n- servers list not over on navigation bar\n- add subscription update interval functions\n- visual change power button\n- notification routings profile update",
       "update": {
         "nowarn": "1.7.1",
         "warnonce": "1.7.1",
