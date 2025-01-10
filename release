@@ -5,19 +5,19 @@
   "data": "1.2.0",
   "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.2/Happ_1.2.0_1061_all.apk",
   "details": "Bug fixes and performance improvements.",
-  "filenum": 1089,
+  "filenum": 1090,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "1.8.0",
-      "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.8.0/Happ.apk",
-      "details": "-fix auto update subscription on background\n-add check connection before update subscription\n-save status expand subscriptions\n-fix underlay button on subscriptions",
+      "version": "1.8.1",
+      "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.8.1/Happ.apk",
+      "details": "-fix auto update subscription on background\n-fix corrupted config in subscription\n-rework outbounds in core config for not globalProxy mode\n-fix underlay button on subscriptions",
       "update": {
-        "nowarn": "1.7.2",
-        "warnonce": "1.7.2",
-        "warnweek": "1.7.2",
-        "warnalways": "1.7.1",
+        "nowarn": "1.8.0",
+        "warnonce": "1.8.0",
+        "warnweek": "1.8.0",
+        "warnalways": "1.7.2",
         "updateonly": "0.0.1"
       }
     },
