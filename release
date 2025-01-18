@@ -2,10 +2,10 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "1.2.0",
-  "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.2/Happ_1.2.0_1061_all.apk",
-  "details": "Bug fixes and performance improvements.",
-  "filenum": 1091,
+  "data": "1.8.1",
+  "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.8.1/Happ.apk",
+  "details": "-Routing system rework\n-Add import and export routing profiles\n-Add support Headers Meta Params or body params\n-Update underlay buttons\n-Add autoupdate subscriptions funcs",
+  "filenum": 1092,
   "apk": {
     "block": [
     ],
@@ -22,14 +22,14 @@
       }
     },
     "stable": {
-      "version": "1.2.0",
-      "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.2/Happ_1.2.0_1061_all.apk",
-      "details": "Bug fixes and performance improvements.",
+      "version": "1.8.1",
+      "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.8.1/Happ.apk",
+      "details": "-Routing system rework\n-Add import and export routing profiles\n-Add support Headers Meta Params or body params\n-Update underlay buttons\n-Add autoupdate subscriptions funcs",
       "update": {
-        "nowarn": "1.0.0",
-        "warnonce": "1.0.0",
-        "warnweek": "1.0.0",
-        "warnalways": "1.0.0",
+        "nowarn": "1.8.0",
+        "warnonce": "1.8.0",
+        "warnweek": "1.8.0",
+        "warnalways": "1.8.0",
         "updateonly": "0.0.1"
       }
     }
