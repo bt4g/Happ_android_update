@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "1.8.1",
-  "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.8.1/Happ.apk",
-  "details": "-Routing system rework\n-Add import and export routing profiles\n-Add support Headers Meta Params or body params\n-Update underlay buttons\n-Add autoupdate subscriptions funcs",
-  "filenum": 1092,
+  "data": "1.10.0",
+  "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.10.0/Happ.apk",
+  "details": "-fix foreground notifications\n-update xray-core to 24.12.31\n-bug fixes and performance improvements",
+  "filenum": 1093,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "1.9.0",
-      "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.9.0/Happ_beta.apk",
-      "details": "-fix share underlay button\n-fix import subs from qr-code from sreenshot in gallery\n-return default application icon",
+      "version": "1.10.0",
+      "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.10.0/Happ_beta.apk",
+      "details": "-fix foreground notifications\n-update xray-core to 24.12.31\n-bug fixes and performance improvements",
       "update": {
-        "nowarn": "1.8.2",
-        "warnonce": "1.8.2",
-        "warnweek": "1.8.2",
-        "warnalways": "1.8.0",
+        "nowarn": "1.9.0",
+        "warnonce": "1.9.0",
+        "warnweek": "1.9.0",
+        "warnalways": "1.9.0",
         "updateonly": "0.0.1"
       }
     },
     "stable": {
-      "version": "1.8.1",
-      "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.8.1/Happ.apk",
-      "details": "-Routing system rework\n-Add import and export routing profiles\n-Add support Headers Meta Params or body params\n-Update underlay buttons\n-Add autoupdate subscriptions funcs",
+      "version": "1.10.0",
+      "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.10.0/Happ.apk",
+      "details": "-fix foreground notifications\n-update xray-core to 24.12.31\n-bug fixes and performance improvements",
       "update": {
-        "nowarn": "1.8.0",
-        "warnonce": "1.8.0",
-        "warnweek": "1.8.0",
-        "warnalways": "1.8.0",
+        "nowarn": "1.9.0",
+        "warnonce": "1.9.0",
+        "warnweek": "1.9.0",
+        "warnalways": "1.9.0",
         "updateonly": "0.0.1"
       }
     }
