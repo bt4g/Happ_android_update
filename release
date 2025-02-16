@@ -18,7 +18,7 @@
         "warnonce": "1.11.0",
         "warnweek": "1.11.0",
         "warnalways": "1.11.0",
-        "updateonly": "0.0.1"
+        "updateonly": "1.10.0"
       }
     },
     "stable": {
@@ -30,7 +30,7 @@
         "warnonce": "1.10.0",
         "warnweek": "1.10.0",
         "warnalways": "1.10.0",
-        "updateonly": "0.0.1"
+        "updateonly": "1.10.0"
       }
     }
   },
@@ -41,11 +41,11 @@
       "version": "1.0.0",
       "details": "Welcome to new version of Happ Android application",
       "update": {
-        "nowarn": "0.4.1",
-        "warnonce": "0.4.1",
-        "warnweek": "0.3.5",
-        "warnalways": "0.0.4",
-        "updateonly": "0.0.3"
+        "nowarn": "1.10.0",
+        "warnonce": "1.10.0",
+        "warnweek": "1.10.0",
+        "warnalways": "1.10.0",
+        "updateonly": "1.10.0"
       }
     }
   }
