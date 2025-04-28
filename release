@@ -2,35 +2,35 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "1.17.0",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.17.0/Happ.apk",
+  "data": "2.1.0",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.1.0/Happ.apk",
   "details": "-fix import/update subscriptions",
-  "filenum": 1102,
+  "filenum": 1122,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "1.17.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.17.0/Happ_beta.apk",
+      "version": "2.1.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.1.0/Happ.apk",
       "details": "-fix import/update subscriptions",
       "update": {
-        "nowarn": "1.17.0",
-        "warnonce": "1.16.0",
-        "warnweek": "1.16.0",
-        "warnalways": "1.16.0",
-        "updateonly": "1.10.0"
+        "nowarn": "2.100.0",
+        "warnonce": "2.0.6",
+        "warnweek": "2.0.6",
+        "warnalways": "2.0.6",
+        "updateonly": "2.0.6"
       }
     },
     "stable": {
-      "version": "1.17.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.17.0/Happ.apk",
+      "version": "2.1.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.1.0/Happ.apk",
       "details": "-fix import/update subscriptions",
       "update": {
-        "nowarn": "1.17.0",
-        "warnonce": "1.16.0",
-        "warnweek": "1.16.0",
-        "warnalways": "1.16.0",
-        "updateonly": "1.10.0"
+        "nowarn": "2.100.0",
+        "warnonce": "2.0.6",
+        "warnweek": "2.0.6",
+        "warnalways": "2.0.6",
+        "updateonly": "2.0.6"
       }
     }
   },
